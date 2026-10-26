@@ -1,0 +1,17 @@
+OK   What time is check-in?                                     expected get_hotel_info           used ['get_hotel_info']
+OK   請問游泳池幾點開放？                                                 expected get_hotel_info           used ['get_hotel_info']
+OK   Is parking free for hotel guests?                          expected get_hotel_info           used ['get_hotel_info']
+OK   How much is a Deluxe Room per night?                       expected find_item                used ['find_item']
+OK   總統套房今天有空嗎？                                                 expected find_item                used ['find_item']
+OK   We are 4 people. Which rooms can we book?                  expected list_rooms_for_guests    used ['list_rooms_for_guests']
+OK   How much is the Executive Room for 3 nights for 2 guests?  expected calculate_stay_cost      used ['calculate_stay_cost']
+     answer contains 34,650: yes
+OK   豪華客房住2晚、3個人，要含早餐，總共多少錢？                                    expected calculate_stay_cost      used ['calculate_stay_cost']
+     answer contains 25,828: yes
+OK   I want to speak to the manager. My room was dirty.         expected transfer_to_human        used ['transfer_to_human']
+OK   Do you have a rooftop bar?                                 expected transfer_to_human        used ['transfer_to_human']
+OK   What is the weather in Taipei tomorrow?                    expected (no tool)                used (no tool)
+OK   可以幫我寫期中報告嗎？                                                expected (no tool)                used (no tool)
+
+tool choice = 12/12  (100%)
+calculated numbers shown in the answer = 2/2

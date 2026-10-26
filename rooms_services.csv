@@ -1,0 +1,18 @@
+item_id,name,name_zh,category,price,unit,max_guests,available
+101,Classic Room,經典客房,room,6800,night,2,1
+102,Deluxe Room,豪華客房,room,8200,night,2,1
+103,Deluxe Twin Room,豪華雙床房,room,8800,night,2,1
+104,Executive Room,行政客房,room,10500,night,2,1
+105,Family Room,家庭房,room,12800,night,4,1
+106,Junior Suite,豪華套房,room,15800,night,2,1
+107,Executive Suite,行政套房,room,22000,night,3,1
+108,Presidential Suite,總統套房,room,68000,night,4,0
+201,Extra Bed,加床,service,1200,night,0,1
+202,Breakfast Buffet,自助早餐,dining,780,person,0,1
+203,Afternoon Tea,下午茶,dining,980,person,0,1
+204,Cantonese Dinner Set,粵菜晚餐套餐,dining,2200,person,0,1
+205,Secret Tunnel Tour,密道導覽,service,300,person,0,1
+206,Airport Transfer,機場接送,service,1800,trip,0,1
+207,Late Check-out,延後退房,service,1000,request,0,1
+208,Spa Massage 60 min,SPA 按摩（60分鐘）,service,3200,person,0,0
+209,Laundry,洗衣服務,service,300,load,0,1
